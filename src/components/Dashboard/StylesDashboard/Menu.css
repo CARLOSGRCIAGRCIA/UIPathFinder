@@ -1,0 +1,26 @@
+.dashboard-menu {
+    width: 200px;
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .dashboard-menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .dashboard-menu li {
+    padding: 10px 20px;
+  }
+  
+  .dashboard-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .dashboard-menu a:hover {
+    color: #ffd700;
+  }
