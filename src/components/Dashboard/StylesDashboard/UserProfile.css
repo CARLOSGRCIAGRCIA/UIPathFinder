@@ -1,0 +1,18 @@
+.user-profile {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .user-profile h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #007bff;
+  }
+  
+  .user-profile.loading,
+  .user-profile.error {
+    color: #6c757d;
+    font-style: italic;
+  }
